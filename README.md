@@ -3,7 +3,7 @@
 
 | Escola             | Curso                                                           | Carga horária      |
 | ------------------ | --------------------------------------------------------------- | ------------------ |
-| ![][sAL] Alura     | Lógica de Programação    [⮚][1]                                |                    |
+| ![][sAL] Alura     | Aprenda a programar em Python com POO    [⮚][1]                |                    |
 | ![][sTW] xxxxxxxxx |                                                                 | 24 Horas           |
 
 
